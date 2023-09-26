@@ -401,7 +401,9 @@
                     <a href="https://www.linkedin.com/in/fernanda-mattos-vieira-surda-622200153/" class="linkedin"><i class='bx bxl-linkedin'></i></a>
                     <a href=""><i class='bx bxl-github'></i></a>
                 </div>                
+            
             </div>
+            
         </section>
 
         <section class="pitch" id="pitch">
