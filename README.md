@@ -19,12 +19,10 @@
             border: none;
             outline: none;
             scroll-behavior: smooth;
-            font-family: sans-serif;
         }
 
         :root{
             --bg-color: #561692;
-            --second-bg-color: #323946;
             --text-color: #fff;
             --main-color: rgb(0, 221, 255);
         }
