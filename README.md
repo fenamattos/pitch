@@ -19,7 +19,7 @@
             border: none;
             outline: none;
             scroll-behavior: smooth;
-            font-family: 'Poppins', sans-serif;
+            font-family: sans-serif;
         }
 
         :root{
