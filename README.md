@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -14,15 +14,18 @@
        <style>
         *{
             margin:0;
+            padding: 0;
             box-sizing: border-box;
             text-decoration: none;
             border: none;
             outline: none;
             scroll-behavior: smooth;
+            font-family: 'Poppins', sans-serif;
         }
 
         :root{
             --bg-color: #561692;
+            --second-bg-color: #323946;
             --text-color: #fff;
             --main-color: rgb(0, 221, 255);
         }
@@ -63,6 +66,8 @@
             font-size: 2.5rem;
             color: var(--text-color);
             font-weight: 600;
+            cursor: default;
+
         }
 
         .navbar a{
@@ -72,8 +77,7 @@
         }
 
         .navbar a:hover,
-        .navbar a.active
-       {
+        .navbar a.active{
             color: var(--main-color);
         }
 
@@ -375,23 +379,30 @@
     </style>
     
     <header class = "header">
-        <a href="" class="logo">Portfólio</a> 
+        <a href="#" class="logo">Portfólio</a> 
+        
+        <i class='bx bx-menu' id="menu-icon"></i>
         
         <nav class="navbar">
-            <a href="#pagina">Página Inicial</a>
+            <a href="#pagina"class="active">Página Inicial</a>
             <a href="#pitch">Pitch</a>
             <a href="#projeto">Meu Projeto</a>
             <a href="#contato">Contato</a>
         </nav>
         </header>
 
-          <section class="pagina" id="pagina">
+        <section class="pagina" id="pagina">
             <div class="pagina-content">
                 <h3>Olá, quem eu sou?</h3>
                 <h1>Meu nome é Fernanda Mattos Vieira</h1>
                 <h3>E atualmente estou dedicada aos estudos em <span>programação</span></h3>
                 <p> Essa jornada de aprendizado constante me leva a desvendar os desafios do código e transformá-los em soluções inovadoras.
-                    Estou sempre entusiasmada em aprimorar minhas habilidades e abraçar novos projetos empolgantes no campo da programação</p>             
+                    Estou sempre entusiasmada em aprimorar minhas habilidades e abraçar novos projetos empolgantes no campo da programação</p>
+                <div class="social-media">    
+                    <a href="https://www.linkedin.com/in/fernanda-mattos-vieira-surda-622200153/" class="linkedin"><i class='bx bxl-linkedin'></i></a>
+                    <a href="https://github.com/fenamattos"class = "github"><i class='bx bxl-github'></i></a>
+                </div>
+                <a href="file:///C:/Users/Fernanda/Downloads/Profile%20(4).pdf" class="btn">Download CV</a>
             </div>
         </section>
 
@@ -440,5 +451,4 @@
         <script src="js/script.js"></script>
 </body>
 </html>
-
 
