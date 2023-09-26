@@ -379,9 +379,7 @@
     </style>
     
     <header class = "header">
-        <a href="#" class="logo">Portfólio</a> 
-        
-        <i class='bx bx-menu' id="menu-icon"></i>
+        <a href="" class="logo">Portfólio</a> 
         
         <nav class="navbar">
             <a href="#pagina">Página Inicial</a>
