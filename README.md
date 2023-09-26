@@ -14,7 +14,6 @@
        <style>
         *{
             margin:0;
-            padding: 0;
             box-sizing: border-box;
             text-decoration: none;
             border: none;
@@ -66,8 +65,6 @@
             font-size: 2.5rem;
             color: var(--text-color);
             font-weight: 600;
-            cursor: default;
-
         }
 
         .navbar a{
