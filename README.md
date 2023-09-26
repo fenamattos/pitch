@@ -72,7 +72,7 @@
         }
 
         .navbar a:hover,
-        .navbar a.active{
+       {
             color: var(--main-color);
         }
 
