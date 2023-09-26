@@ -396,8 +396,10 @@
                 <h3>E atualmente estou dedicada aos estudos em <span>programação</span></h3>
                 <p> Essa jornada de aprendizado constante me leva a desvendar os desafios do código e transformá-los em soluções inovadoras.
                     Estou sempre entusiasmada em aprimorar minhas habilidades e abraçar novos projetos empolgantes no campo da programação</p>
+                    
                 <div class="social-media">    
                     <a href="https://www.linkedin.com/in/fernanda-mattos-vieira-surda-622200153/" class="linkedin"><i class='bx bxl-linkedin'></i></a>
+                    <a href=""><i class='bx bxl-github'></i></a>
                 </div>
                 
                 <a href=""><i class='bx bxl-github'></i></a>
