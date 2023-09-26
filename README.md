@@ -402,7 +402,6 @@
                     <a href=""><i class='bx bxl-github'></i></a>
                 </div>
                 
-                <a href=""><i class='bx bxl-github'></i></a>
                 <a href="file:///C:/Users/Fernanda/Downloads/Profile%20(4).pdf" class="btn">Download CV</a>
             </div>
         </section>
