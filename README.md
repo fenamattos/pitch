@@ -389,21 +389,19 @@
         </nav>
         </header>
 
-        <section class="pagina" id="pagina">
+          <section class="pagina" id="pagina">
             <div class="pagina-content">
                 <h3>Olá, quem eu sou?</h3>
                 <h1>Meu nome é Fernanda Mattos Vieira</h1>
                 <h3>E atualmente estou dedicada aos estudos em <span>programação</span></h3>
                 <p> Essa jornada de aprendizado constante me leva a desvendar os desafios do código e transformá-los em soluções inovadoras.
                     Estou sempre entusiasmada em aprimorar minhas habilidades e abraçar novos projetos empolgantes no campo da programação</p>
-                    
                 <div class="social-media">    
                     <a href="https://www.linkedin.com/in/fernanda-mattos-vieira-surda-622200153/" class="linkedin"><i class='bx bxl-linkedin'></i></a>
-                    <a href=""><i class='bx bxl-github'></i></a>
-                </div>                
-            
+                    <a href="https://github.com/fenamattos"class = "github"><i class='bx bxl-github'></i></a>
+                </div>
+                <a href="file:///C:/Users/Fernanda/Downloads/Profile%20(4).pdf" class="btn">Download CV</a>
             </div>
-            
         </section>
 
         <section class="pitch" id="pitch">
