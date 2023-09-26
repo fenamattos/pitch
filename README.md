@@ -400,11 +400,7 @@
                 <div class="social-media">    
                     <a href="https://www.linkedin.com/in/fernanda-mattos-vieira-surda-622200153/" class="linkedin"><i class='bx bxl-linkedin'></i></a>
                     <a href=""><i class='bx bxl-github'></i></a>
-                </div>
-
-                    <a href="file:///C:/Users/Fernanda/Downloads/Profile%20(4).pdf" class="btn">Download CV</a>
-
-                
+                </div>                
             </div>
         </section>
 
