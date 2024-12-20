@@ -384,7 +384,7 @@
         <i class='bx bx-menu' id="menu-icon"></i>
         
         <nav class="navbar">
-            <a href="#pagina"class="active">Página Inicial</a>
+            <a href="#pagina">Página Inicial</a>
             <a href="#pitch">Pitch</a>
             <a href="#projeto">Meu Projeto</a>
             <a href="#contato">Contato</a>
