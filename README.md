@@ -7,7 +7,7 @@
     <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/pitch.css">
     <style>
-        {
+        * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
@@ -253,5 +253,6 @@
             <p>DESENVOLVIDA POR FERNANDA MATTOS VIEIRA | 2023</p>
         </div>
     </footer>
+    
 </body>
 </html>
